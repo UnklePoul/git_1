@@ -66,5 +66,5 @@ git branch
 ```
 ## Для проверки лога комитов используется команда
 ```
-git log --graph all
+git log --graph --all
 ```
