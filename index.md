@@ -109,4 +109,3 @@ git merge
 ```
 git branch -d <имя ветки>
 ```
-
