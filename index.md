@@ -104,3 +104,8 @@ git log --graph --all
 ```
 git merge
 ```
+<<<<<<< HEAD
+=======
+git branch -d <имя ветки>
+```
+>>>>>>> delit
